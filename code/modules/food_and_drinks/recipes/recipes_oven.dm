@@ -628,7 +628,7 @@
 	result = /obj/item/food/sliceable/pizza/pestopizza
 
 /datum/recipe/oven/garlicpizza
-	reagents = list("garlic" = 5)
+	reagents = list("garlic_sause" = 5)
 	items = list(
 		/obj/item/food/sliceable/flatdough,
 		/obj/item/food/grown/garlic,

@@ -934,7 +934,6 @@
 	items = list(
 		/obj/item/food/bun,
 		/obj/item/stack/sheet/mineral/plasma,
-		/obj/item/stack/sheet/mineral/plasma
 	)
 	result = /obj/item/food/burger/elec
 
@@ -1100,7 +1099,7 @@
 		/obj/item/food/grown/peanuts,
 		/obj/item/food/meatball,
 		/obj/item/food/meatball,
-		/obj/item/food/spaghetti
+		/obj/item/food/boiledspaghetti
 	)
 	result = /obj/item/food/soup/meatball_noodles
 
